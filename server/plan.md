@@ -1,0 +1,13 @@
+- Create an App (Module)
+- Basic Routes/Views (controllers)
+- Create and conenct to a database
+- Create a Tweet Module & Migrate
+- Admin Portal
+- Python shell (similar to psql shell)
+- Django Rest Framework
+- Modify our Views to respond with out Tweet data in JSON format (like an API)
+- Create additional Routes/Views to fulfill CRUD
+- Introduce comments/users and relational data and similarly perform CRUD
+- Token Authentication
+- CORS
+- Attach to our React front end
