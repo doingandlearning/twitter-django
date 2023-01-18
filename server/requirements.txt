@@ -1,0 +1,15 @@
+asgiref==3.6.0
+Brotli==1.0.9
+dj-database-url==1.2.0
+Django==4.1.5
+django-cors==0.1
+django-cors-headers==3.13.0
+django-rest-framework==0.1.0
+djangorestframework==3.14.0
+gunicorn==20.1.0
+psycopg2==2.9.5
+PyJWT==2.6.0
+pytz==2022.7.1
+sqlparse==0.4.3
+-e git+ssh://git@github.com/doingandlearning/twitter-django.git@947e5e22125c0d0e588a806313f4c0fabed2d6f0#egg=twitter_django&subdirectory=server
+whitenoise==6.3.0
